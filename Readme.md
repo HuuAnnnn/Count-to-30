@@ -10,4 +10,6 @@ A: 27 28 29
 B: 30 -> He win
 ```
 
+<br>
+
 >> I was lost a lot in this game which make me write the program to help me win :)!
